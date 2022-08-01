@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mickeyDominic
 - 👀 I’m interested in solving problems
 - 🌱 I’m currently learning how to be a better systems engineer
-- 💞️ I’m looking to collaborate on anyhting, let's get in touch.
+- 💞️ I’m looking to collaborate on anything, let's get in touch.
 - 📫 How to reach me ...
 
 <!---
